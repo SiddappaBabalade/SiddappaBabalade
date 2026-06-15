@@ -42,7 +42,6 @@
 
 ### Database & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -84,14 +83,14 @@ Tech: Java 21 • Spring Boot 3.5 • Spring Security • JWT • React.js
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Siddappababaladee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SiddappaBabaladee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddappaBabalade&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SiddappaBabalade&theme=tokyonight&hide_border=true)
 
 </div>
 
